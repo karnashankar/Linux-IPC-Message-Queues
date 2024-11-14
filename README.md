@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY :ajina joshpin a
-REGISTER NO : 212223230008
+DEVELOPED BY : Karna S
+REGISTER NO : 212222110017
 ```
 ## C program that receives a message from message queue and display them
 ```
